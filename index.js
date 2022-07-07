@@ -11,9 +11,8 @@ const getRawData = (URL) => {
 };
 
 // URL for data
-const URL = "https://hipodromo.eticaenlinea.cl/";
-const textExpected =
-  "Para un óptimo funcionamiento de la plataforma, se recomienda la utilización del navegador Google Chrome";
+const URL = "URL TO WEB SCRAPPING";
+const textExpected = "TEXT TO FIND";
 
 // start of the program
 const getHtmlText = async () => {
